@@ -1,0 +1,9 @@
+Event tracking in a React Native application can be done in several ways. Here are some methods:
+
+React Native Firebase Analytics: This module allows you to collect usage and behavior data for your app. It automatically logs some events and user properties, but also allows you to log custom or predefined events within your app1.
+
+React Native Tracker: This can be configured to automatically track certain events such as application lifecycle tracking, screen view tracking, exception tracking, and more2.
+
+React-Tracking: This is a library for declarative tracking in React that implements tracking for each component of the page. You can use Hooks and decorators to declare tracking on events like click events, states, functional components, class components, and more3.
+
+Google Analytics Bridge for React Native: This NPM module exposes almost all the commonly used APIs in Google Analytics. It has support for screen tracking, event tracking and even e-commerce tracking along with many others4
