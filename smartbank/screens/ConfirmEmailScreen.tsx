@@ -38,9 +38,9 @@ export default function ConfirmEmailScreen() {
         </View>
         <View className="flex-1">
           <Image
-            style={{ resizeMode: "cover" }}
+            style={{ resizeMode: "cover",width: 1, aspectRatio: 1 }}
             className="w-full flex-1"
-            source={require("../assets/planes.png")}
+            source={require("../assets/South_Indian_Bank_Log.svg.png")}
           />
         </View>
         <View className="px-4">
